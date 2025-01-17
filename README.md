@@ -1,6 +1,8 @@
 # TeenyXO
 
-![TeenyXO](/Images/teenyxo.jpg)
+![TeenyXO Back](/Images/teenyxo-back.jpg)
+
+![TeenyXO Front](/Images/teenyxo-front.jpg)
  
 Providing Schematic / PCB Layout and Gerber files for those interested.
 
